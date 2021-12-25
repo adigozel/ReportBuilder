@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "o13BHCCl0zyJqRGfCnJi/any98Lx5BdVf7C5lN18Ju6FWUTHzO+89W0us+pqQAyw9WSlhL70galwwahdRZWjLg==",
+  "success": true,
+  "projectFilePath": "D:\\NEW_STRUCTURE\\PROJECTS\\ReportBuilder\\RebortBuilder\\ReportBuilderApp\\ReportBuilderApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

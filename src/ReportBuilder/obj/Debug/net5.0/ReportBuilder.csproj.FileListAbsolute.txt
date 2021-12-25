@@ -1,0 +1,12 @@
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\bin\Debug\net5.0\ReportBuilder.deps.json
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\bin\Debug\net5.0\ReportBuilder.dll
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\bin\Debug\net5.0\ref\ReportBuilder.dll
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\bin\Debug\net5.0\ReportBuilder.pdb
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\obj\Debug\net5.0\ReportBuilder.csproj.AssemblyReference.cache
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\obj\Debug\net5.0\ReportBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\obj\Debug\net5.0\ReportBuilder.AssemblyInfoInputs.cache
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\obj\Debug\net5.0\ReportBuilder.AssemblyInfo.cs
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\obj\Debug\net5.0\ReportBuilder.csproj.CoreCompileInputs.cache
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\obj\Debug\net5.0\ReportBuilder.dll
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\obj\Debug\net5.0\ref\ReportBuilder.dll
+D:\NEW_STRUCTURE\PROJECTS\ReportBuilder\RebortBuilder\ReportBuilder\obj\Debug\net5.0\ReportBuilder.pdb
